@@ -7,13 +7,14 @@ mpv /$HOME/JARVIS/terminal.mp3
 clear
 echo -e "Created By \e[5mBADSHA"
 echo "----------------------------" | lolcat
-echo "
-o      o        8
-8      8        8
-8      8 .oPYo. 8 .oPYo. .oPYo. ooYoYo. .oPYo.
-8  db  8 8oooo8 8 8      8    8 8' 8  8 8oooo8
- b.PY.d' 8.     8 8    . 8    8 8  8  8 8.
-  8  8'   Yooo  8  YooP   YooP  8  8  8  Yooo " | lolcat
+echo "                     
+RR RR RRR  R      OO OO OO      NNNN NNN       NNN    YYY        YYY
+RR   RR   RR     OO      OO      NNN  NNN      NNN     YYY  II  YYY
+RR        RR     OO      OO      NNN   NNN     NNN      YYY    YYY
+RR RR RRR  R     OO  AA  OO      NNN    NNN    NNN       YYY  YYY
+RR RR            OO      OO      NNN     NNN   NNN         YYYY
+RR    RR         OO      OO      NNN  NN  NNN  NNN          YY
+RR       RR       OO OO OO       NNN       NNN NNNN         YY                " | lolcat
 echo ""
   
 date | lolcat
