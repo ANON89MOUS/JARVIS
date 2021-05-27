@@ -14,9 +14,13 @@ pkg install mpv -y
 
 git clone https://github.com/ANON89MOUS/JARVIS.git
 
-cd jarvis-welcome
+cd JARVIS
 
-chmod +x *
+chmod +x * 
+
+# else use 
+
+chmod 777 *
 
 sh install.sh
 
